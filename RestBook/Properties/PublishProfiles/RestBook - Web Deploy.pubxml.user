@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAt+o9Z5YETUGMaPwzMOv2TwAAAAACAAAAAAAQZgAAAAEAACAAAACwHcQAvogGM9HYlJzozSQQB2L09gqSMMso+aOAchU91gAAAAAOgAAAAAIAACAAAAD18suV1vmqxrJ6iuPFEVt+3PhyVlyt2omHh8QNV8kk04AAAAANWQ6vzm9pYtuREZFEyJOZ0EHCdx06St8z1A1Pf4rDDmXinULh/sC59nYISqWpJB15jebXFYSKeFnPbwza0u8zV3w/P2v+nw6ukOFAkWpGb8dwNJ/BidFikyRZKH7AwKljKG2ZI4Esbh9ycZ8AXe0O6DhFktXrFgkaL2PPk5YuSkAAAABLgOOdb5xsIIBA+woBK4heEIPnAxHbN5rZ0JQrs4x9fnXj7b8w6B7AxA36vGGE0c+znBOKHSZ1u78gSRi1FcCt</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="db">
+      <Value>Data Source=tcp:restbook20191109013943dbserver.database.windows.net,1433%3bInitial Catalog=RestBook_db%3bUser Id=restbook_sa%40restbook20191109013943dbserver%3bPassword=rest_b00k_sa_123</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

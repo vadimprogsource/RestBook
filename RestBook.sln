@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.138
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestBook", "RestBook\RestBook.csproj", "{940684D9-1AA0-42DE-B2C3-2575DEA63E5A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestBook.Api", "RestBook.Api\RestBook.Api.csproj", "{372DB5BA-E6B9-4E82-B545-77A63BFC4F8C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestBook.App", "RestBook.App\RestBook.App.csproj", "{89BD9AFA-7A3D-49CF-AB49-C0D9164E7586}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestBook.Data", "RestBook.Data\RestBook.Data.csproj", "{8826C67E-5581-4EE6-B7D4-BBD11B5D82E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorApp1", "BlazorApp1\BlazorApp1.csproj", "{31E0BB82-E047-4C9A-910A-D0447BEDC096}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{940684D9-1AA0-42DE-B2C3-2575DEA63E5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{940684D9-1AA0-42DE-B2C3-2575DEA63E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{940684D9-1AA0-42DE-B2C3-2575DEA63E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{940684D9-1AA0-42DE-B2C3-2575DEA63E5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{372DB5BA-E6B9-4E82-B545-77A63BFC4F8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{372DB5BA-E6B9-4E82-B545-77A63BFC4F8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{372DB5BA-E6B9-4E82-B545-77A63BFC4F8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{372DB5BA-E6B9-4E82-B545-77A63BFC4F8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89BD9AFA-7A3D-49CF-AB49-C0D9164E7586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89BD9AFA-7A3D-49CF-AB49-C0D9164E7586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89BD9AFA-7A3D-49CF-AB49-C0D9164E7586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89BD9AFA-7A3D-49CF-AB49-C0D9164E7586}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8826C67E-5581-4EE6-B7D4-BBD11B5D82E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8826C67E-5581-4EE6-B7D4-BBD11B5D82E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8826C67E-5581-4EE6-B7D4-BBD11B5D82E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8826C67E-5581-4EE6-B7D4-BBD11B5D82E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31E0BB82-E047-4C9A-910A-D0447BEDC096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E0BB82-E047-4C9A-910A-D0447BEDC096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E0BB82-E047-4C9A-910A-D0447BEDC096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E0BB82-E047-4C9A-910A-D0447BEDC096}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8239ACB-3B37-4587-A6D3-074A70B07AE7}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://restbook.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = RestBook.Api\\RestBook.Api.csproj
+		SccProjectName1 = RestBook.Api
+		SccLocalPath1 = RestBook.Api
+		SccProjectUniqueName2 = RestBook.App\\RestBook.App.csproj
+		SccProjectName2 = RestBook.App
+		SccLocalPath2 = RestBook.App
+		SccProjectUniqueName3 = RestBook.Data\\RestBook.Data.csproj
+		SccProjectName3 = RestBook.Data
+		SccLocalPath3 = RestBook.Data
+		SccProjectUniqueName4 = RestBook\\RestBook.csproj
+		SccProjectName4 = RestBook
+		SccLocalPath4 = RestBook
+		SccProjectUniqueName5 = BlazorApp1\\BlazorApp1.csproj
+		SccProjectName5 = BlazorApp1
+		SccLocalPath5 = BlazorApp1
+	EndGlobalSection
+EndGlobal
