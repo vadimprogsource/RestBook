@@ -5,4 +5,4 @@ RestBook offers access to digital catalogs, enabling users to easily browse rest
 The service includes an integrated CRM system for managing customer relationships, providing features such as creating personal accounts, tracking order history, visits, and events, as well as managing loyalty programs, bonuses, and discounts.
 To facilitate seamless integration with internal restaurant systems, RestBook provides an API for data exchange with ERP systems.
 RestBook is a modern tool for increasing customer loyalty, boosting sales, and optimizing business processes. It is an essential solution for restaurants seeking to succeed and grow in the digital age.
-<img border="0" src="https://github.com/vadimprogsource/rOS/blob/main/erp.png">
+<img border="0" src="https://github.com/vadimprogsource/RestBook/blob/main/restbook.png">
