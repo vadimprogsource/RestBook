@@ -6,4 +6,4 @@ The service includes an integrated CRM system for managing customer relationship
 To facilitate seamless integration with internal restaurant systems, RestBook provides an API for data exchange with ERP systems.
 RestBook is a modern tool for increasing customer loyalty, boosting sales, and optimizing business processes. It is an essential solution for restaurants seeking to succeed and grow in the digital age.
 <img border="0" src="https://github.com/vadimprogsource/RestBook/blob/master/restbook.png"><br/><br/>
-<img border="0" src="https://github.com/vadimprogsource/RestBook/blob/master/AzureRestBook1.png">
+<img border="0" src="https://github.com/vadimprogsource/RestBook/blob/master/AzureRestBook.png">
